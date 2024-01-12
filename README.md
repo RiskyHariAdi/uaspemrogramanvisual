@@ -28,4 +28,4 @@ Berikut adalah demo dari aplikasi ini:
 # Laporan
 ![foto](foto/faktur.jpg) <br>
 # Faktur Penjualan 
-![foto](foto/faktur penjualan.jpg) <br>
+![foto](foto/fakturpenjualan.jpg) <br>
