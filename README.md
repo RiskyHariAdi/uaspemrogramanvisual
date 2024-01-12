@@ -19,13 +19,12 @@ Berikut adalah demo dari aplikasi ini:
 ![foto](foto/66.jpg) <br>
 # Transaksi Penjualan
 ![foto](foto/7.jpg) <br>
-# Tambah Transaksi Penjualan
-![foto](foto/77.jpg) <br>
 # Tambah Transaksi 
-![foto](foto/777.jpg) <br>
+![foto](foto/77.jpg) <br>
 # Tambah Detail Transaksi 
-![foto](foto/laporan.jpg) <br>
+![foto](foto/777.jpg) <br>
 # Laporan
-![foto](foto/faktur.jpg) <br>
-# Faktur Penjualan 
+![foto](foto/laporan.jpg) <br>
+
+# Cetak Laporan
 ![foto](foto/fakturpenjualan.jpg) <br>
